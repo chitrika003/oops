@@ -1,4 +1,4 @@
-package com.cg.vechile;
+package com.project.vechile;
 
 public interface Vechile1 {
     void run();
