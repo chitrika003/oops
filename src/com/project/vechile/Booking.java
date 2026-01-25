@@ -16,4 +16,9 @@ public class Booking extends AbstractVechile{
     public int capatcity() {
         return 0;
     }
+
+    public void confrimation(){
+
+    }
+
 }
